@@ -338,6 +338,7 @@ body {
   font-size: var(--fs-6);
   line-height: 1.45;
   margin-block-end: 40px;
+  color: black !important;
 }
 
 .hero-form {
